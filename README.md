@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+HTML | CSS | JavaScript | React | Wordpress
+Estudante, atualmente curansdo a graduação em Sistemas de Informação.
+
+
+
+🔭 Trabalhando atualmente em suporte a sistemas.
+🌱 Atualmente estudando React
+📱 (11)99367-8727
+💬 vitorhgfluiz@gmail.com
+💼 www.linkedin.com/in/vitor-hugo-gomes-ferreira/
