@@ -21,7 +21,7 @@ Estudante, atualmente curansdo a graduação em Sistemas de Informação.
 
 
 
-🔭 Trabalhando atualmente em suporte a sistemas.
+🔭 Trabalhando atualmente em suporte a sistemas.<br>
 🌱 Atualmente estudando React
 📱 (11)99367-8727
 💬 vitorhgfluiz@gmail.com
