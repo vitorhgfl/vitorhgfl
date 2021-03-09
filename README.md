@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 
-HTML | CSS | JavaScript | React | Wordpress
-Estudante, atualmente curansdo a graduação em Sistemas de Informação.
+HTML | CSS | JavaScript | React | Wordpress<br>
+Estudante, atualmente curansdo a graduação em Sistemas de Informação.<br>
 
 
 
 🔭 Trabalhando atualmente em suporte a sistemas.<br>
-🌱 Atualmente estudando React
-📱 (11)99367-8727
-💬 vitorhgfluiz@gmail.com
+🌱 Atualmente estudando React<br>
+📱 (11)99367-8727<br>
+💬 vitorhgfluiz@gmail.com<br>
 💼 www.linkedin.com/in/vitor-hugo-gomes-ferreira/
