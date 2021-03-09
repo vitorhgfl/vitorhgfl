@@ -1,7 +1,7 @@
 # Vitor Hugo Gomes Ferreira Luiz 
 
 
-HTML | CSS | JavaScript | React | Wordpress<br>
+#HTML | CSS | JavaScript | React | Wordpress<br>
 Estudante, atualmente curansdo a graduação em Sistemas de Informação.<br>
 
 
