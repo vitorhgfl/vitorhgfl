@@ -1,10 +1,5 @@
 # Vitor Hugo Gomes Ferreira Luiz 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/html.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png"</code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/wordpress.png"></code>
 
 HTML | CSS | JavaScript | React | Wordpress<br>
 Estudante, atualmente curansdo a graduação em Sistemas de Informação.<br>
@@ -16,3 +11,4 @@ Estudante, atualmente curansdo a graduação em Sistemas de Informação.<br>
 💬 vitorhgfluiz@gmail.com<br>
 💼 www.linkedin.com/in/vitor-hugo-gomes-ferreira/
 
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/devsajermann)](https://www.linkedin.com/in/devbrunosajermann) [![Linkedin Badge](https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/11975929454?text=sua%20mensagem)](https://wa.me/5511975929454?text=sua%20mensagem)
