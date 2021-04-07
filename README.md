@@ -2,11 +2,19 @@
 
 
 ### HTML | CSS | JavaScript | React | Wordpress<br>
-Estudante, atualmente curansdo a graduação em Sistemas de Informação.<br>
 
 <p align="left">
   <img src="images/html5.svg" alt="html" width="30" height="30"/>
+  <img src="images/css3.svg" alt="css" width="30" height="30"/>
+  <img src="images/javascript.svg" alt="js" width="30" height="30"/>
+  <img src="images/reactjs.svg" alt="react" width="30" height="30"/>
+  <img src="images/git.svg" alt="git" width="30" height="30"/>
+  <img src="images/wordpress.svg" alt="wordpress" width="30" height="30"/>
+
 </p>
+
+Estudante, atualmente curansdo a graduação em Sistemas de Informação.<br>
+
 
 
 
