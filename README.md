@@ -1,7 +1,7 @@
 # Vitor Hugo Gomes Ferreira Luiz 
 
 
-### HTML | CSS | JavaScript | React | Wordpress<br>
+### HTML | CSS | JavaScript | React | GIT | Wordpress<br>
 
 <p align="left">
   <img src="images/html5.svg" alt="html" width="30" height="30"/>
