@@ -4,6 +4,11 @@
 ### HTML | CSS | JavaScript | React | Wordpress<br>
 Estudante, atualmente curansdo a graduação em Sistemas de Informação.<br>
 
+<p align="left">
+  <img src="images/html5.svg" alt="html" width="30" height="30"/>
+</p>
+
+
 
 🔭 Trabalhando atualmente em suporte a sistemas.<br>
 🌱 Atualmente estudando React<br>
